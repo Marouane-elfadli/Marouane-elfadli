@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Marouane-elfadli&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 🚀 About Me
-🎓 Software engineering student interested in AI, Data Science, and software development.
+🎓 Software engineering  interested in AI, Data Science, and software development.
 🤖 Building projects involving machine learning, computer vision, automation, and data analysis.
 🌍 Contributing bug fixes and improvements to open-source projects.
 🧩 I enjoy debugging, learning unfamiliar codebases, writing tests, and collaborating with maintainers.
