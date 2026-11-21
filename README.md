@@ -2,7 +2,7 @@
   <img src="./github-profile-animation.gif" alt="Neon cyberpunk coding animation" width="100%" />
 </div>
 <h1 align="center">Hi, I'm Marouane El Fadli 👋</h1>
-<h3 align="center">Software Engineering Student | AI & Data Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">Software Engineering  | AI & Data Enthusiast | Open-Source Contributor</h3>
 <p align="center">
   I enjoy building practical software, exploring AI and data-driven solutions, and contributing to open-source projects.  
   Currently focused on improving my engineering skills through real-world projects and community collaboration.
